@@ -2,12 +2,12 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Machine Learning Model Project</b>
+  - [S&P 500 Trading Predictor Project]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/Brianwitarsa/Project-Portfolio))
 
 <h2>📄 Certifications:</h2>
 - <b>LightsOnData Practical Data Governance Implementation Course</b>
-  - [Praciting DS & Algos in Python](https://github.com/Brianwitarsa/Algorithms-Practice)
+  - [Praciting DS & Algos in Python](file:///Users/50832/Desktop/Personal/Certificates/PDGI%20Completion%20Certificate%20BWCert.pdf)
 
 
 
@@ -21,11 +21,8 @@
 <br>
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on: A Large Language Model Project
+- 🌱 I’m currently learning: Advanced Data Analytics Certificate
+- 📫 How to reach me: bwitarsa@nd.edu | (574)-344-3717
+- ⚡ Bio: Born in Los Angeles, California, but grew up in Jakarta, Indonesia
+- ⚽️ Hobbies: Sports(mainly soccer), Watching Movies, Exploring Restaurants in the City, Visiting State Parks 
