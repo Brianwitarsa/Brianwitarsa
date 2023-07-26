@@ -3,11 +3,12 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Machine Learning Model Project</b>
-  - [S&P 500 Trading Predictor Project]([https://github.com/joshmadakor1/Algorithms-Practice](https://github.com/Brianwitarsa/Project-Portfolio))
+  - [S&P 500 Trading Predictor Project](https://github.com/Brianwitarsa/Project-Portfolio)
 
 <h2>📄 Certifications:</h2>
+
 - <b>LightsOnData Practical Data Governance Implementation Course</b>
-  - [Praciting DS & Algos in Python](file:///Users/50832/Desktop/Personal/Certificates/PDGI%20Completion%20Certificate%20BWCert.pdf)
+  - [Data Governance Certificate](https://github.com/Brianwitarsa/Brianwitarsa/blob/main/Data%20Governance%20Course%20Completion%20Certificate.pdf)
 
 
 
