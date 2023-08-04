@@ -9,6 +9,7 @@
 
 - <b>LightsOnData Practical Data Governance Implementation Course</b>
   - [Data Governance Certificate](https://github.com/Brianwitarsa/Brianwitarsa/blob/main/Data%20Governance%20Course%20Completion%20Certificate.pdf)
+- <b>Currently In Progress: Google Advanced Data Analytics Professional Certificate</b>
 
 
 
