@@ -24,7 +24,7 @@
 
 - 👨‍💻 I’m currently working at: Mavely as a Data Science Intern
 - 🔭 I’m currently working on: A Large Language Model Project
-- 🌱 I’m currently learning: Advanced Data Analytics Certificate
+- 🌱 I’m currently learning: Google Advanced Data Analytics Certificate
 - 📫 How to reach me: bwitarsa@nd.edu | (574)-344-3717
 - ⚡ Bio: Born in Los Angeles, California, but grew up in Jakarta, Indonesia
 - ⚽️ Hobbies: Sports(mainly soccer), Watching Movies, Exploring Restaurants in the City, Visiting State Parks 
