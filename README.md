@@ -2,7 +2,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Epsilon Marketing Camapaign Analysis Project</b>
-  - [Epsilon Marketing Analysis](https://github.com/Brianwitarsa/Epsilon-Marketing-Analysis-Project)
+  - [Epsilon Marketing Analysis Project](https://github.com/Brianwitarsa/Epsilon-Marketing-Analysis-Project)
     
 - <b>Machine Learning Model Project</b>
   - [S&P 500 Trading Predictor Project](https://github.com/Brianwitarsa/Project-Portfolio)
@@ -12,6 +12,7 @@
 - <b>LightsOnData Practical Data Governance Implementation Course</b>
   - [Data Governance Certificate](https://github.com/Brianwitarsa/Brianwitarsa/blob/main/Data%20Governance%20Course%20Completion%20Certificate.pdf)
 - <b>Google Advanced Data Analytics Professional Certificate</b>
+  - [Google Advanced Data Analytics Professional Certificate](https://github.com/Brianwitarsa/Brianwitarsa/blob/main/Google%20Advanced%20Data%20Analytics%20Professional%20Certificate.pdf)
 
 
 
