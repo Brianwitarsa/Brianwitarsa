@@ -3,6 +3,9 @@
 
 - <b>Epsilon Marketing Camapaign Analysis Project</b>
   - [Epsilon Marketing Analysis Project](https://github.com/Brianwitarsa/Epsilon-Marketing-Analysis-Project)
+  
+- <b>Quantitative Performance Analysis and Predictive Model on English Premier League</b>
+  - [Premier League Prediction Model](https://github.com/Brianwitarsa/Premier-League-Prediction-Model)
     
 - <b>Machine Learning Model Project</b>
   - [S&P 500 Trading Predictor Project](https://github.com/Brianwitarsa/Project-Portfolio)
