@@ -1,7 +1,10 @@
-<h1>Hi, I'm Brian! <br/>
+<img width="1018" alt="Screenshot 2024-08-29 at 11 12 02 PM" src="https://github.com/user-attachments/assets/9327cd51-047b-4ac3-86fa-8daba34e5066"><h1>Hi, I'm Brian! <br/>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Epsilon Marketing Camapaign Analysis Project</b>
+  - [Epsilon Marketing Analysis](https://github.com/Brianwitarsa/Epsilon-Marketing-Analysis-Project)
+    
 - <b>Machine Learning Model Project</b>
   - [S&P 500 Trading Predictor Project](https://github.com/Brianwitarsa/Project-Portfolio)
 
