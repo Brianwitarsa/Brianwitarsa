@@ -1,6 +1,9 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>JD Sports RFM Customer Segmentation</b>
+  - [JD Sports RFM Segmentation](https://github.com/Brianwitarsa/JDSports-RFM-Segmentation)
+    
 - <b>Epsilon Marketing Camapaign Analysis Project</b>
   - [Epsilon Marketing Analysis Project](https://github.com/Brianwitarsa/Epsilon-Marketing-Analysis-Project)
   
