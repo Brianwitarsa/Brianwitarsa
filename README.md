@@ -4,7 +4,7 @@
 - <b>JD Sports RFM Customer Segmentation</b>
   - [JD Sports RFM Segmentation](https://github.com/Brianwitarsa/JDSports-RFM-Segmentation)
     
-- <b>Epsilon Marketing Camapaign Analysis Project</b>
+- <b>Epsilon Marketing Campaign Analysis Project</b>
   - [Epsilon Marketing Analysis Project](https://github.com/Brianwitarsa/Epsilon-Marketing-Analysis-Project)
   
 - <b>Quantitative Performance Analysis and Predictive Model on English Premier League</b>
