@@ -10,7 +10,7 @@
 - <b>Quantitative Performance Analysis and Predictive Model on English Premier League</b>
   - [Premier League Prediction Model](https://github.com/Brianwitarsa/Premier-League-Prediction-Model)
     
-- <b>Machine Learning Model Project</b>
+- <b>Machine Learning Model Stock Predictor Project</b>
   - [S&P 500 Trading Predictor Project](https://github.com/Brianwitarsa/Project-Portfolio)
 
 <h2>📄 Certifications:</h2>
