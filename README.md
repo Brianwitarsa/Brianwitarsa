@@ -1,5 +1,5 @@
 <h2> 🤳 About Me:</h2>
-Hi! I'm Brian. I was born in Los Angeles, California, and grew up in Jakarta, Indonesia. I’m passionate about data science, and currently work as a data analyst while pursuing my master’s degree in the field. Outside of work and studies, I enjoy playing soccer ⚽️ and watching movies 🎥.
+Hi! I'm Brian. I was born in Los Angeles, California, and grew up in Jakarta, Indonesia. I’m passionate about Data Science, and currently work as a Data Analyst while pursuing my Master’s in Data Science. Outside of work and studies, I enjoy playing soccer ⚽️ and watching movies 🎥.
 
 
 <br><br>
