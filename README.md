@@ -1,4 +1,7 @@
-<h2> 🤳 Connect with me:</h2>
+<h2> 🤳 About Me:</h2>
+Hi! I'm Brian. I was born in Los Angeles, California, and grew up in Jakarta, Indonesia. I’m passionate about data science, and currently work as a data analyst while pursuing my master’s degree in the field. Outside of work and studies, I enjoy playing soccer ⚽️ and watching movies 🎥.
+
+- 📫 How to reach me: bwitarsa@nd.edu | (574)-344-3717
 
 [<img align="left" alt="BrianWitarsa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="BrianWitarsa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -7,9 +10,8 @@
 [linkedin]: https://linkedin.com/in/brian-witarsa
 <br>
 
-- 📫 How to reach me: bwitarsa@nd.edu | (574)-344-3717
-- ⚡ Bio: Born in Los Angeles, California, but grew up in Jakarta, Indonesia
-- ⚽️ Hobbies: Playing Soccer, Watching Movies
+
+
   
 
 <h2>👨‍💻 Software Development Projects:</h2>
