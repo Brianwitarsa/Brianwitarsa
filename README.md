@@ -1,3 +1,16 @@
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="BrianWitarsa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="BrianWitarsa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[instagram]: https://www.instagram.com/brianwitarsa/
+[linkedin]: https://linkedin.com/in/brian-witarsa
+<br>
+
+- 📫 How to reach me: bwitarsa@nd.edu | (574)-344-3717
+- ⚡ Bio: Born in Los Angeles, California, but grew up in Jakarta, Indonesia
+- ⚽️ Hobbies: Playing Soccer, Watching Movies
+  
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
@@ -22,15 +35,4 @@
 
 
 
-<h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="BrianWitarsa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="BrianWitarsa | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[instagram]: https://www.instagram.com/brianwitarsa/
-[linkedin]: https://linkedin.com/in/brian-witarsa
-<br>
-
-- 📫 How to reach me: bwitarsa@nd.edu | (574)-344-3717
-- ⚡ Bio: Born in Los Angeles, California, but grew up in Jakarta, Indonesia
-- ⚽️ Hobbies: Sports(mainly soccer), Watching Movies, Exploring Restaurants in the City, Visiting State Parks 
