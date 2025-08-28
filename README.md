@@ -2,7 +2,7 @@
 Hi! I'm Brian. I was born in Los Angeles, California, and grew up in Jakarta, Indonesia. I’m passionate about data science, and currently work as a data analyst while pursuing my master’s degree in the field. Outside of work and studies, I enjoy playing soccer ⚽️ and watching movies 🎥.
 
 
-<br>
+<br><br>
 📫 How to reach me: bwitarsa@nd.edu | (574)-344-3717
 
 
