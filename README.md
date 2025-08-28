@@ -20,6 +20,9 @@ Hi! I'm Brian. I was born in Los Angeles, California 🇺🇸, and grew up in Ja
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Paris Baguette Market Basket Analysis</b>
+  - [Paris Baguette Market Basket Analysis](https://github.com/Brianwitarsa/Paris-Baguette-Market-Basket-Analysis)
+
 - <b>JD Sports RFM Customer Segmentation</b>
   - [JD Sports RFM Segmentation](https://github.com/Brianwitarsa/JDSports-RFM-Segmentation)
     
