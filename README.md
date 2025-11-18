@@ -20,11 +20,8 @@ Hi! I'm Brian. I was born in Los Angeles, California 🇺🇸, and grew up in Ja
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>Cancer Mortality Prediction With StepAIC</b>
-  - [Cancer Mortality Prediction With StepAIC](https://github.com/Brianwitarsa/Cancer-Mortality-Prediction-With-StepAIC)
-
-- <b>Predictive Modeling for Breast Cancer Diagnosis</b>
-  - [Predictive Modeling for Breast Cancer Diagnosis](https://github.com/Brianwitarsa/Predictive-Modeling-for-Breast-Cancer-Diagnosis-Using-Machine-Learning)
+- <b>Customer Satisfaction Factor and Sentiment Analysis at San Francisco International Airport (SFO)</b>
+  - [Customer Satisfaction Factor and Sentiment Analysis at San Francisco International Airport (SFO)](https://github.com/Brianwitarsa/Customer-Satisfaction-Sentiment-Analysis-at-SFO)
   
 - <b>Paris Baguette Market Basket Analysis</b>
   - [Paris Baguette Market Basket Analysis](https://github.com/Brianwitarsa/Paris-Baguette-Market-Basket-Analysis)
@@ -34,6 +31,12 @@ Hi! I'm Brian. I was born in Los Angeles, California 🇺🇸, and grew up in Ja
     
 - <b>Epsilon Marketing Campaign Analysis Project</b>
   - [Epsilon Marketing Analysis Project](https://github.com/Brianwitarsa/Epsilon-Marketing-Analysis-Project)
+ 
+- <b>Cancer Mortality Prediction With StepAIC</b>
+  - [Cancer Mortality Prediction With StepAIC](https://github.com/Brianwitarsa/Cancer-Mortality-Prediction-With-StepAIC)
+
+- <b>Predictive Modeling for Breast Cancer Diagnosis</b>
+  - [Predictive Modeling for Breast Cancer Diagnosis](https://github.com/Brianwitarsa/Predictive-Modeling-for-Breast-Cancer-Diagnosis-Using-Machine-Learning)
   
 - <b>Quantitative Performance Analysis and Predictive Model on English Premier League</b>
   - [Premier League Prediction Model](https://github.com/Brianwitarsa/Premier-League-Prediction-Model)
