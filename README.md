@@ -20,6 +20,9 @@ Hi! I'm Brian. I was born in Los Angeles, California 🇺🇸, and grew up in Ja
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Cancer Mortality Prediction With StepAIC</b>
+  - [Cancer Mortality Prediction With StepAIC](https://github.com/Brianwitarsa/Cancer-Mortality-Prediction-With-StepAIC)
+
 - <b>Predictive Modeling for Breast Cancer Diagnosis</b>
   - [Predictive Modeling for Breast Cancer Diagnosis](https://github.com/Brianwitarsa/Predictive-Modeling-for-Breast-Cancer-Diagnosis-Using-Machine-Learning)
   
