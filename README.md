@@ -20,6 +20,9 @@ Hi! I'm Brian. I was born in Los Angeles, California 🇺🇸, and grew up in Ja
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>Predictive Modeling for Breast Cancer Diagnosis</b>
+  - [Predictive Modeling for Breast Cancer Diagnosis](https://github.com/Brianwitarsa/Predictive-Modeling-for-Breast-Cancer-Diagnosis-Using-Machine-Learning)
+  
 - <b>Paris Baguette Market Basket Analysis</b>
   - [Paris Baguette Market Basket Analysis](https://github.com/Brianwitarsa/Paris-Baguette-Market-Basket-Analysis)
 
