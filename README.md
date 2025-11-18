@@ -21,16 +21,16 @@ Hi! I'm Brian. I was born in Los Angeles, California 🇺🇸, and grew up in Ja
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Customer Satisfaction Factor and Sentiment Analysis at San Francisco International Airport (SFO)</b>
-  - [Customer Satisfaction Factor and Sentiment Analysis at San Francisco International Airport (SFO)](https://github.com/Brianwitarsa/Customer-Satisfaction-Sentiment-Analysis-at-SFO)
+  - [Customer Satisfaction Factor and Sentiment Analysis](https://github.com/Brianwitarsa/Customer-Satisfaction-Sentiment-Analysis-at-SFO)
   
 - <b>Paris Baguette Market Basket Analysis</b>
-  - [Paris Baguette Market Basket Analysis](https://github.com/Brianwitarsa/Paris-Baguette-Market-Basket-Analysis)
+  - [Market Basket Analysis](https://github.com/Brianwitarsa/Paris-Baguette-Market-Basket-Analysis)
 
 - <b>JD Sports RFM Customer Segmentation</b>
-  - [JD Sports RFM Segmentation](https://github.com/Brianwitarsa/JDSports-RFM-Segmentation)
+  - [RFM Segmentation](https://github.com/Brianwitarsa/JDSports-RFM-Segmentation)
     
 - <b>Epsilon Marketing Campaign Analysis Project</b>
-  - [Epsilon Marketing Analysis Project](https://github.com/Brianwitarsa/Epsilon-Marketing-Analysis-Project)
+  - [Marketing Analysis](https://github.com/Brianwitarsa/Epsilon-Marketing-Analysis-Project)
  
 - <b>Cancer Mortality Prediction With StepAIC</b>
   - [Cancer Mortality Prediction With StepAIC](https://github.com/Brianwitarsa/Cancer-Mortality-Prediction-With-StepAIC)
