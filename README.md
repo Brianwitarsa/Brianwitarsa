@@ -20,6 +20,9 @@ Hi! I'm Brian. I was born in Los Angeles, California 🇺🇸, and grew up in Ja
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>News Article Classification (NLP | Random Forest, Convolutional Neural Networks)</b>
+  - [News Article Classification](https://github.com/Brianwitarsa/News-Article-NLP-Classification)
+  
 - <b>Customer Satisfaction Factor and Sentiment Analysis at San Francisco International Airport (SFO)</b>
   - [Customer Satisfaction Factor and Sentiment Analysis](https://github.com/Brianwitarsa/Customer-Satisfaction-Sentiment-Analysis-at-SFO)
   
